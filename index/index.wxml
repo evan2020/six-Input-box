@@ -1,1 +1,7 @@
-.
+<view>
+  <paySix bindvalueSix="valueSix"></paySix>
+</view>
+
+<view style='margin-top:20px'>
+  <paySix bindvalueSix="valueSix"></paySix>
+</view>
