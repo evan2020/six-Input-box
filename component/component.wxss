@@ -4,9 +4,13 @@
   margin: 0 auto;
   display: flex;
   flex-direction: row;
-  border-top: 1px solid gray;
-  border-bottom: 1px solid gray;
-  border-right: 1px solid gray;
+  border: 1px solid gray;
+  border-radius:10rpx;
+}
+
+/* 第一个格子输入框 */
+.pay_number>view:first-child{
+  border-left:none;
 }
 
 /* 支付密码框聚焦的时候 */
