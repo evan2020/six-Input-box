@@ -3,5 +3,5 @@
 </view>
 
 <view style='margin-top:20px'>
-  <paySix bindvalueSix="valueSix"></paySix>
+  <paySix bindvalueSix="valueFail"></paySix>
 </view>
