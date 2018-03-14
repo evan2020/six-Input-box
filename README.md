@@ -1,17 +1,18 @@
 ### 插件/代码片段
-2018.03.13
+
 小程序新增插件功能（目前只支持公司和机构发布插件）
-小程序新增代码片段
-现已打包位插件和代码片段
 
-#### 代码片段地址
-分享链接：
-wechatide://minicode/4181f766a16bfe11a6f603a3574f0e09
-使用请参考官方文档：
-https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/minicode.html
+小程序新增代码片段 现已打包位插件和代码片段
 
-#### 插件（审核中）
+### 代码片段地址
 
+分享链接： wechatide://minicode/4181f766a16bfe11a6f603a3574f0e09
+
+###  使用请参考官方文档：
+
+ https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/minicode.html
+
+### 插件（审核中）
 
 ### 6位支付密码组件
 微信小程序6位支付密码输入框
