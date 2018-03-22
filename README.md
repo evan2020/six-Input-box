@@ -12,7 +12,8 @@
 
  https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/minicode.html
 
-### 插件（审核中）
+### 新增文本明文显示
+代码片段地址：wechatide://minicode/ejANw6mJ6uY5
 
 ### 6位支付密码组件
 微信小程序6位支付密码输入框
