@@ -62,12 +62,12 @@
 
 /* 格式中的点 */
 
-.dot {
+ .dot {
   width: 10px;
   height: 10px;
   background-color: #000;
   border-radius: 50%;
-}
+} 
 
 /* 输入框 */
 

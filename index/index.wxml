@@ -1,7 +1,9 @@
-<view>
-  <paySix bindvalueSix="valueSix"></paySix>
+<view style='text-align:center;margin-top:200rpx;'>
+  <view style='margin-bottom:50rpx'>请输入支付密码</view>
+  <paySix bindvalueSix="valueSix" ></paySix>
 </view>
 
-<view style='margin-top:20px'>
+<!-- <view style='margin-top:20px'>
+  <text>请输入登录密码</text>
   <paySix bindvalueSix="valueFail"></paySix>
-</view>
+</view> -->

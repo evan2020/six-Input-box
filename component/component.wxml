@@ -3,7 +3,7 @@
     <view class='pay_number  {{focus_class?"get_focus":""}}' catchtap="set_focus" style='width:{{width}};height:{{height}};'>
       <view class='{{focus_class?"get_focus_dot":"password_dot"}}' wx:for="{{value_num}}" wx:key="{{index}}">
         <view wx:if="{{(value_length==item-1)&&focus_class}}" class="cursor"></view>
-        <view wx:if="{{value_length>=item}}" class="dot"></view>
+        <view wx:if="{{value_length>=item}}" class="{{see?'':'dot'}}">{{see?val_arr[index]:""}}</view>
       </view>
     </view>
 
