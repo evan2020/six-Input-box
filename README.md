@@ -22,3 +22,9 @@
 ##### 明文展示
 
 ![](https://om83cysj8.qnssl.com/%E6%98%8E%E6%96%87%E5%B1%95%E7%A4%BA.gif)
+
+使用说明：
+
+请看项目wiki
+
+![](https://om83cysj8.qnssl.com/Snipaste_2018-03-22_18-14-51.png)
