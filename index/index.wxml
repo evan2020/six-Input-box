@@ -1,9 +1,18 @@
 <view style='text-align:center;margin-top:200rpx;'>
   <view style='margin-bottom:50rpx'>请输入支付密码</view>
-  <paySix bindvalueSix="valueSix" ></paySix>
-</view>
 
-<!-- <view style='margin-top:20px'>
-  <text>请输入登录密码</text>
-  <paySix bindvalueSix="valueFail"></paySix>
-</view> -->
+  <paySix 
+  bindvalueSix="valueSix" 
+  input_value="{{inputData.input_value}}" 
+  value_length="{{inputData.value_length}}" 
+  isNext="{{inputData.isNext}}" 
+  get_focus="{{inputData.get_focus}}" 
+  focus_class="{{inputData.focus_class}}" 
+  value_num="{{inputData.value_num}}"
+  height="{{inputData.height}}" 
+  width="{{inputData.width}}" 
+  see="{{inputData.see}}" 
+  interval="{{inputData.interval}}">
+  </paySix>
+  
+</view>

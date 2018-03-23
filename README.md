@@ -7,6 +7,10 @@
 
 具体参数和事件设置，请参考小程序官方文档-组件
 
+##### 参数设置
+
+![](https://om83cysj8.qnssl.com/%E8%BE%93%E5%85%A5%E6%A1%86%E6%BC%94%E7%A4%BA.gif)
+
 ##### 代码片段地址（新增明文/暗文切换）
 
 代码片段地址：wechatide://minicode/ejANw6mJ6uY5
@@ -22,6 +26,16 @@
 ##### 明文展示
 
 ![](https://om83cysj8.qnssl.com/%E6%98%8E%E6%96%87%E5%B1%95%E7%A4%BA.gif)
+
+##### 切换间隔
+
+新增间隔属性，可以设置为带有间隔的不连续的数字输入框
+
+`interval: false,//是否显示间隔格子`
+
+true为连续，false为间隔
+
+![](https://om83cysj8.qnssl.com/%E6%9C%89%E9%97%B4%E9%9A%94%E7%9A%84%E8%BE%93%E5%85%A5%E6%A1%86.png)
 
 使用说明：
 

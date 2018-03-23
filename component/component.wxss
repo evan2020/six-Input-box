@@ -4,14 +4,23 @@
   margin: 0 auto;
   display: flex;
   flex-direction: row;
-  border: 1px solid gray;
-  border-radius:10rpx;
+  border: 1px solid #cfd4d3;
+  /* border-radius:10rpx; */
+}
+
+.pay_number_interval {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  border-left: 1px solid #cfd4d3;
+  /* border:none; */
 }
 
 /* 第一个格子输入框 */
-.pay_number>view:first-child{
-  border-left:none;
+.content .noBorder{
+   border-left:none; 
 }
+
 
 /* 支付密码框聚焦的时候 */
 
@@ -23,7 +32,16 @@
 
 .password_dot {
   flex: 1;
-  border-left: 1px solid gray;
+  border-left: 1px solid #cfd4d3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.password_dot_interval {
+  flex: 1;
+  border: 1px solid #cfd4d3;
+  margin-right: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,6 +52,15 @@
 .get_focus_dot {
   flex: 1;
   border-left: 1px solid orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.get_focus_dot_interval {
+  flex: 1;
+  border: 1px solid orange;
+  margin-right: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -62,19 +89,19 @@
 
 /* 格式中的点 */
 
- .dot {
+.dot {
   width: 10px;
   height: 10px;
   background-color: #000;
   border-radius: 50%;
-} 
+}
 
 /* 输入框 */
 
 .input_container {
   height: 0;
   width: 0;
-  min-height:0;
+  min-height: 0;
   position: relative;
   text-indent: -999em;
   left: -100%;
