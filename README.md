@@ -13,7 +13,7 @@
 
 ##### 代码片段地址（新增明文/暗文切换）
 
-代码片段地址：wechatide://minicode/ejANw6mJ6uY5
+代码片段地址：wechatide://minicode/uSYM88mq6lYa
 
 ##### 使用请参考官方文档：
 
