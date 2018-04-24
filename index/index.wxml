@@ -15,4 +15,5 @@
   interval="{{inputData.interval}}">
   </paySix>
   
+  
 </view>
