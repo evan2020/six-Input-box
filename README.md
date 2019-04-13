@@ -1,3 +1,15 @@
+##### 注:
+
+本项目代码仅供参考,不建议使用在生产环境
+
+最近问题:
+
+**部分手机input的type=number时，键盘无法弹出**
+
+参考:
+
+`https://developers.weixin.qq.com/community/develop/doc/00046ac5eb48d03c7f48e32ec56800?highLine=%25E9%2594%25AE%25E7%259B%2598`
+
 ##### ➢ `6`位支付密码组件
 
 微信小程序`6`位支付密码输入框
@@ -43,3 +55,9 @@
 请看项目`wiki`
 
 ![](https://file.smallzhiyun.com/Snipaste_2018-03-22_18-14-51.png)
+
+##### ➢ 微信群
+
+该项目仅供参考,较少维护,如有需要,大家群内交流
+
+![微信群](https://file.smallzhiyun.com/Snipaste_2019-04-13_16-40-32.png)
