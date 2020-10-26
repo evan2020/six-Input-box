@@ -22,7 +22,7 @@
 
 ##### ➢ 参数设置
 
-![](https://file.smallzhiyun.com/%E8%BE%93%E5%85%A5%E6%A1%86%E6%BC%94%E7%A4%BA.gif)
+![](https://httpsimg.dsx2020.com/%E8%BE%93%E5%85%A5%E6%A1%86%E6%BC%94%E7%A4%BA.gif)
 
 ##### ➢ 代码片段地址（新增明文/暗文切换）
 
@@ -34,11 +34,11 @@
 
 ##### 暗文展示
 
-![支付密码](https://file.smallzhiyun.com/%E6%9A%97%E6%96%87%E5%B1%95%E7%A4%BA.gif)
+![支付密码](https://httpsimg.dsx2020.com/%E6%9A%97%E6%96%87%E5%B1%95%E7%A4%BA.gif)
 
 ##### ➢ 明文展示
 
-![](https://file.smallzhiyun.com/%E6%98%8E%E6%96%87%E5%B1%95%E7%A4%BA.gif)
+![](https://httpsimg.dsx2020.com/%E6%98%8E%E6%96%87%E5%B1%95%E7%A4%BA.gif)
 
 ##### ➢ 切换间隔
 
@@ -48,16 +48,10 @@
 
 `true`为连续，`false`为间隔
 
-![](https://file.smallzhiyun.com/%E6%9C%89%E9%97%B4%E9%9A%94%E7%9A%84%E8%BE%93%E5%85%A5%E6%A1%86.png)
+![](https://httpsimg.dsx2020.com/%E6%9C%89%E9%97%B4%E9%9A%94%E7%9A%84%E8%BE%93%E5%85%A5%E6%A1%86.png)
 
 ##### ➢ 使用说明：
 
 请看项目`wiki`
 
-![](https://file.smallzhiyun.com/Snipaste_2018-03-22_18-14-51.png)
-
-##### ➢ 微信群
-
-该项目仅供参考,较少维护,如有需要,大家群内交流
-
-![微信群](https://file.smallzhiyun.com/Snipaste_2019-04-13_16-40-32.png)
+![](https://httpsimg.dsx2020.com/Snipaste_2018-03-22_18-14-51.png)
